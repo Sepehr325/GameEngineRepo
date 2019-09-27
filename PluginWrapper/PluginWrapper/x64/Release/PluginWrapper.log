@@ -1,0 +1,9 @@
+﻿  SimpleClass.cpp
+  Wrapper.cpp
+     Creating library C:\Users\100664645\source\repos\PluginWrapper\x64\Release\PluginWrapper.lib and object C:\Users\100664645\source\repos\PluginWrapper\x64\Release\PluginWrapper.exp
+  Generating code
+  4 of 188 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PluginWrapper.vcxproj -> C:\Users\100664645\source\repos\PluginWrapper\x64\Release\PluginWrapper.dll
